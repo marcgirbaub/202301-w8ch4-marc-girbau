@@ -4,6 +4,7 @@
 
 - current number
 - previous number
+- operator
 
 ## DATA MODIFICATIONS
 
@@ -21,10 +22,15 @@
 
 ## DISPLAY
 
-- Receives a number
-- Shows the number
+- Receives the current number
+- Shows the current number
 
-### KEY
+## KEYBOARD
 
-- Receives the function to add a number
-- Recieves the function to clear the whole number
+- shows the keys
+
+## KEY
+
+- receives the function to add a number
+- recieves the function to clear the whole number
+- onclick executes the action to add a number
